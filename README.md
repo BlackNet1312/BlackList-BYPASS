@@ -1,4 +1,4 @@
-blacklist-bypass
+Blacklist-Bypass
 ================
 
 _For those who do not keep up to date on drama, Mojang has recently deployed a blacklist to encourage EULA compliance from
